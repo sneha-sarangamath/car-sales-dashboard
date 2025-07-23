@@ -66,7 +66,7 @@ This project presents an interactive Power BI dashboard analyzing car sales data
 4. Interact with filters and visuals
 
 Screenshot:
-link:
+link:(https://github.com/sneha-sarangamath/car-sales-dashboard/blob/main/carsales%20screenshot.png)
 
 
 
